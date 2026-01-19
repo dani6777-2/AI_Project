@@ -61,9 +61,10 @@ Se implementaron exactamente los pasos requeridos en el enunciado para evidencia
 - Gráfico de línea que muestra la tendencia de ventas mensuales (se abre en una ventana Matplotlib).
 
 ## Capturas de pantalla
-Coloca tus capturas en `docs/img/` y actualiza los nombres si difieren. Ejemplos de referencias en Markdown (los archivos no se incluyen por defecto):
-- ![Salida en consola](docs/img/console_output.png)
-- ![Gráfico de tendencia](docs/img/ventas_tendencia.png)
+Capturas ubicadas en `docs/img/`:
+- ![Prompt inicial](docs/img/prompt_inicial.png)
+- ![Generación de archivos](docs/img/generacion_de_archivos.png)
+- ![Salida de ejecución](docs/img/output.png)
 
 ## Estructura breve
 - [recomendation_system.py](recomendation_system.py): script EDA completo (datos sintéticos, limpieza, agregados, gráfica).
